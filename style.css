@@ -66,6 +66,7 @@ h1.artiifical {
     margin-top: 5rem;
     color: white;
     font-size: 4.5rem;
+    text-shadow: 2px 3px 10px #00edff;
     animation: 3s fade linear;
 }
 /* <!-- Navbar-session-End --> */
